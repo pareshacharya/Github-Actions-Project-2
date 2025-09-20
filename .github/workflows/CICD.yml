@@ -118,5 +118,5 @@ jobs:
       with:
         context: .
         push: true
-        tags: pacharya/bankapp:latest
+        tags: pacharya25/bankapp:latest
         file: ./Dockerfile
